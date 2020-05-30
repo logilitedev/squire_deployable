@@ -1,8 +1,7 @@
-logs
-logs/*
+log
+log/*
 utils
 utils/*
-herald-server.sh
+squire-server.sh
 config.yml
-herald-localhost.jks
-
+squire-localhost.jks
