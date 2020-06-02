@@ -1,0 +1,7 @@
+log
+log/*
+utils
+utils/*
+squire-server.sh
+config.yml
+squire-localhost.jks
