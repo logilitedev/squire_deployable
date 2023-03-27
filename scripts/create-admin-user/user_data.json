@@ -1,0 +1,17 @@
+{
+		"emailAddress": "admin2@playjoust.com",
+		"password": "HeyHoLetsGo",
+		"firstName": "Admin",
+		"lastName": "User2",
+		"displayName":"Admin User 2",
+		"domainName":"localhost",
+		"confirmEmailUrlTemplate": "https://localhost:8000/confirmEmail?userId=%7BuserId%7D&token=%7Btoken%7D"
+}
+
+	
+	
+	
+
+  
+
+
